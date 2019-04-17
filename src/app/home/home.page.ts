@@ -7,4 +7,17 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  ingredients = [
+    { name: 'Jalapenos', isChecked: false },
+    { name: 'Pepperoni', isChecked: true },
+    { name: 'Sausage', isChecked: false },
+    { name: 'Mushrooms', isChecked: false },
+  ];
+
+  myBoolean = true;
+
+  onMyBooleanChange() {
+    console.log(this.myBoolean);
+  }
+
 }
