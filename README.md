@@ -1,6 +1,6 @@
 # Ionic 4 Checkbox Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Checkbox Tutorial](https://www.youtube.com/watch?v=sa1BntMr4YA) as well as the blog article [Ionic 4 Checkbox Tutorial](https://blog.jamibot.com/ionic-4-chip).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Checkbox Tutorial](https://www.youtube.com/watch?v=sa1BntMr4YA) as well as the blog article [Ionic 4 Checkbox Tutorial](https://blog.jamibot.com/ionic-4-checkbox).
 
 [![Ionic 4 Checkbox Tutorial](https://img.youtube.com/vi/sa1BntMr4YA/maxresdefault.jpg)](https://www.youtube.com/watch?v=sa1BntMr4YA)
 
